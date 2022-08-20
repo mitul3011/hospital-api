@@ -26,8 +26,8 @@ Libraries used,
 * mysql - to connect to the MySQL database and perform queries.
 * env-cmd - to use custom environment variables.
 
-**To run this API,**
-1. Open Git Bash and change the working directory where you want to save locally and run `https://github.com/mitul3011/hospital-api.git` command.
+**To run this project,**
+1. Open Git Bash and change the working directory where you want to save locally and run `git clone https://github.com/mitul3011/hospital-api.git` command.
 2. Open terminal and set path to where project is stored locally and run `npm i` command.
 3. Start MySQL Server.
 4. Run `npm run start` command in the terminal.
